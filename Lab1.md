@@ -7,3 +7,4 @@
 
 1. Створити локальний репозиторій.
 
+![alt text](https://github.com/Goldbe54/Okk/blob/c6d969962e9e88696a0f736bc1c166ab8fe0739d/111.png)
